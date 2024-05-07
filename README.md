@@ -1,6 +1,9 @@
 # Digit-recognizer
 
 Developed a Digit Recognizer using a **Convolutional Neural Network (CNN)** model. This project aims to accurately classify digits from the dataset, a standard benchmark dataset in the field of machine learning.
+<p align="center">
+<img src="https://www.lambertleong.com/assets/images/projects/written_digit.gif"/>
+</p>
 
 ## Model Flow:
 
