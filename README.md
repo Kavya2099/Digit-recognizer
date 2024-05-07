@@ -15,7 +15,7 @@ Developed a Digit Recognizer using a **Convolutional Neural Network (CNN)** mode
 * Typically, the architecture includes **convolutional layers, pooling layers, and fully connected layers**.
 ### Model Training:
 * Split the dataset into training, validation, and test sets.
-* Train the CNN model on the training data using an appropriate optimization algorithm like **Adam**.
+* Trained the CNN model on the training data using an appropriate optimization algorithm like **Adam**.
 * Used **categorical_crossentropy** as loss function.
 * Monitor the model's performance on the validation set to prevent overfitting.
 * Added **Augumentation and dropout** to prevent overfitting.
@@ -23,7 +23,7 @@ Developed a Digit Recognizer using a **Convolutional Neural Network (CNN)** mode
 * Evaluated the trained model on the test set to assess its generalization performance.
 * Used metrics accuracy to quantify performance.
 * Visualized training accuracy and validation accuracy, similarly training loss with validation loss
-### Model Testing
+### Model Testing:
 * For testing purpose, added sample handwritten digits created by me to test.
 * Model was able to detect 2 out of 5 images properly.
 
