@@ -24,7 +24,7 @@ Developed a Digit Recognizer using a **Convolutional Neural Network (CNN)** mode
 * Used metrics accuracy to quantify performance.
 * Visualized training accuracy and validation accuracy, similarly training loss with validation loss
 ### Model Testing
-* For testing purpose, added sample handwritted digits created by me to test.
+* For testing purpose, added sample handwritten digits created by me to test.
 * Model was able to detect 2 out of 5 images properly.
 
 ## Things learnt!
